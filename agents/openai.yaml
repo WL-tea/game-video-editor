@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏视频剪辑"
+  short_description: "分析游戏素材并按游戏与风格配置生成可迭代的剪辑方案"
+  default_prompt: "使用 $game-video-editor 以中文分析这段游戏素材，并按照指定游戏与风格生成剪辑方案。"

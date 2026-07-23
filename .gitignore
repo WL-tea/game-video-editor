@@ -1,0 +1,13 @@
+.env
+.env.*
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.wav
+*.mp3
+work/
+outputs/
+__pycache__/
+*.pyc
