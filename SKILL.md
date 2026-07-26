@@ -30,8 +30,7 @@ description: 用于需要人机协作分析游戏录像、审查候选素材、�
    - 高密度美式鬼畜：[references/american-meme.md](references/american-meme.md)
    - 事件主导的结构化冷幽默：[references/structured-deadpan.md](references/structured-deadpan.md)
 5. 比较风格或规划试水系列时，再读取 [references/style-experiment.md](references/style-experiment.md)。
-6. 需要核对本轮视频研究的样本、完整覆盖方法或证据边界时，读取 [references/video-study.md](references/video-study.md)。
-7. 没有匹配配置时，根据素材建立临时配置并明确标注假设，不要把某一款游戏的规则当作通用规则。
+6. 没有匹配配置时，根据素材建立临时配置并明确标注假设，不要把某一款游戏的规则当作通用规则。
 
 ## 执行要求
 
