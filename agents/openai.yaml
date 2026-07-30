@@ -1,4 +1,4 @@
 interface:
   display_name: "游戏视频剪辑"
-  short_description: "人机协作审片、选材并生成可确认和可追溯的剪辑工作流"
-  default_prompt: "使用 $game-video-editor 以中文分析这段游戏素材，保留素材与成片时间码映射，并在候选素材、剪辑方向、粗剪和最终成品节点邀请我确认。"
+  short_description: "用 AI 完成可追溯筛选和公式化剪辑，为用户精剪铺设地基"
+  default_prompt: "使用 $game-video-editor 以中文按指定风格分析这段游戏素材，导出并按源视频与时间码命名候选片段，完成公式化粗剪并通过可删除字幕或总结文档提供创意建议，为我继续精剪最终成品保留调整空间。"
