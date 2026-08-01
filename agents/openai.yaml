@@ -1,4 +1,4 @@
 interface:
   display_name: "游戏视频剪辑"
-  short_description: "用 AI 完成可追溯筛选和公式化剪辑，为用户精剪铺设地基"
-  default_prompt: "使用 $game-video-editor 以中文按指定风格分析这段游戏素材，导出并按源视频与时间码命名候选片段，完成公式化粗剪并通过可删除字幕或总结文档提供创意建议，为我继续精剪最终成品保留调整空间。"
+  short_description: "用 AI 完成可追溯筛选和源时间线粗剪，为用户精剪铺设地基"
+  default_prompt: "使用 $game-video-editor 以中文按指定风格分析这段游戏素材，记录覆盖范围，按源视频与时间码命名候选并检查完整成功流程；目标为 Premiere 时生成可导入的源素材对齐 XML 粗剪时间线和可删除标记，为我继续精剪最终成品保留调整空间。"
